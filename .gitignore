@@ -1,0 +1,6 @@
+*.log
+*.tmp
+__pycache__/
+bst-manager-test-*/
+BetterSteamTools-uninstalled-*/
+BetterSteamTools-backup-*/
